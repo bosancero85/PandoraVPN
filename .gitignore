@@ -1,0 +1,7 @@
+# .NET Fixes
+bin/
+obj/
+*.pfx
+*.dll
+.vs/
+*.user
